@@ -5,8 +5,7 @@ Testing Saber [saber.land](https://saber.land/)
 Run `yarn install`
 
 ## Guide
-Try running `yarn saber` for develope environment
+1. Building for development `yarn saber`
+2. Building for production `yarn saber generate` => the output website can be found at **/public**.
 
-Building for production `yarn saber generate` => the output website can be found at **/public**.
-
-To preview the production build locall run `yarn saber serve`
+To preview the production build locally, run `yarn saber serve`

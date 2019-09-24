@@ -1,0 +1,12 @@
+{
+  "name": "saber-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:SSLune/saber-demo.git",
+  "license": "MIT",
+  "dependencies": {
+    "nprogress": "^0.2.0",
+    "saber": "^0.9.0",
+    "saber-plugin-query-posts": "^0.4.2"
+  }
+}

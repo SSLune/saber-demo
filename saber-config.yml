@@ -1,0 +1,10 @@
+# Plugins
+plugins:
+  - resolve: saber-plugin-query-posts
+
+# Site globals
+siteConfig:
+  title: My Blog
+
+# Theme path
+theme: ./src

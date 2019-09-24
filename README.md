@@ -1,8 +1,11 @@
 # Saber demo
 Testing Saber [saber.land](https://saber.land/)
 
-# Guide
-Try running `yarn saber`
+## Installation
+Run `yarn install`
+
+## Guide
+Try running `yarn saber` for develope environment
 
 Building for production `yarn saber generate` => the output website can be found at **/public**.
 
